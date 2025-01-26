@@ -24,8 +24,8 @@ namespace Wk2Ex2
 
             // Output the results
             Console.WriteLine("\n Results ");
-            Console.WriteLine($"Area of the rectangle:       {area:F2}");
-            Console.WriteLine($"Perimeter of the rectangle:  {perimeter:F2}");
+            Console.WriteLine($"Area of the rectangle: {area:F2}");
+            Console.WriteLine($"Perimeter of the rectangle: {perimeter:F2}");
 
             Console.ReadKey();
         }
